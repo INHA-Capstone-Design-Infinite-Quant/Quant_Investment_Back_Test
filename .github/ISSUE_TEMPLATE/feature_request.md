@@ -7,12 +7,13 @@ assignees: ''
 
 ---
 
-> description
+## 설명
+> 코드에 대한 설명
 
-## Progress
-- [] todo1
-- [] todo2
-- [] todo3
+## 진행 상황
+- [ ] todo1
+- [ ] todo2
+- [ ] todo3
 
-## Etc.
-> etc
+## 부가 설명
+> 기타
